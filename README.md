@@ -38,3 +38,19 @@ A spatial 5-SS platform mechanism has been simulated.
 <p align="middle">
 <img src="img/sp5SS.gif" width="400" title="Spatial 5-SS platform mechanism" hspace="10"/>
 </p>
+
+# Citation
+If you find the code, models, or data useful, please cite this paper:
+```
+@inproceedings{Sharma2019simulation,
+    author = {Sharma, Shashank and Purwar, Anurag},
+    title = "{Using a Point-Line-Plane Representation for Unified Simulation of Planar and Spherical Mechanisms}",
+    volume = {Volume 5A: 43rd Mechanisms and Robotics Conference},
+    series = {ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+    year = {2019},
+    month = {08},
+    doi = {10.1115/DETC2019-98194},
+    url = {https://doi.org/10.1115/DETC2019-98194},
+}
+```
+
