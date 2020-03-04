@@ -1,5 +1,5 @@
 # Kinematic Simulation of Planar, Spherical and Spatial mechanisms
-Some practical examples of planar, spherical and spatial mechanisms can be seen below.
+Some practical examples of planar ([ref](https://www.etudes.ru/en/etudes/windscreen-wiper/)), spherical ([ref](http://www.xjishu.com/jx/49002.html)) and spatial ([ref](https://www.markplecnik.com/5-ss-steering-mechanism/)) mechanisms can be seen below.
 
 <p align="middle">
 <img src="img/practPl.gif" width="310" title="Practical Planar"/>
